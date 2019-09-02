@@ -1,0 +1,29 @@
+{
+  "name": "ssb-promiscuous",
+  "version": "1.0.0",
+  "description": "Automatically follow who I discover in the lan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmarcos87/ssb-promiscuous.git"
+  },
+  "keywords": [
+    "ssb",
+    "friends",
+    "replication",
+    "ssb-lan"
+  ],
+  "author": "Marcos Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmarcos87/ssb-promiscuous/issues"
+  },
+  "homepage": "https://github.com/gmarcos87/ssb-promiscuous#readme",
+  "dependencies": {
+    "multiserver-address": "^1.0.1",
+    "pull-stream": "^3.6.14"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "ssb-promiscuous",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatically follow who I discover in the lan",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/gmarcos87/ssb-promiscuous#readme",
   "dependencies": {
-    "multiserver-address": "^1.0.1",
     "pull-stream": "^3.6.14"
   }
 }
